@@ -20,10 +20,10 @@
 
  <p align="left">
   <a href="https://github.com/Rhodvick/Rhodvick/fork">
-    <img src="https://img.shields.io/github/forks/Rhodvick/Rhodvick-V1?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Rhodvick/Rhodvick?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Rhodvick/Rhodvick-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/Rhodvick/Rhodvick-V1?style=social">
+    <img src="https://img.shields.io/github/stars/Rhodvick/Rhodvick?style=social">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
